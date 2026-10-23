@@ -9,6 +9,8 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Android%208.0%2B-brightgreen.svg)](https://developer.android.com)
 [![API Target](https://img.shields.io/badge/Target%20SDK-36%20(Android%2016)-blue.svg)](https://developer.android.com)
+[![Release](https://img.shields.io/github/v/release/mukhesh88/FPS-Meter?color=cyan&logo=github)](https://github.com/mukhesh88/FPS-Meter/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-00E676?logo=android&logoColor=white)](https://github.com/mukhesh88/FPS-Meter/releases/download/v1.0.0/FPS-Meter-v1.0.0.apk)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 [![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose%20%2F%20Material%203-purple.svg)](https://developer.android.com/jetpack/compose)
 
