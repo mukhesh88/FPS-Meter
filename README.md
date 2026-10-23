@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="160" height="160" alt="FPS-Meter Logo" />
+</p>
+
 # FPS-Meter 🎮📊
 
 > **A high-performance, low-overhead RTSS-style in-game telemetry HUD for Android.**  
@@ -69,7 +73,7 @@ graph TD
 ```bash
 # Clone the repository
 git clone https://github.com/mukhesh88/FPS-Meter.git
-cd FPS-Meter/demo-app
+cd FPS-Meter/fps-meter
 
 # Build debug APK
 ./gradlew assembleDebug
@@ -92,7 +96,9 @@ adb shell pm grant com.performance.rtss android.permission.SYSTEM_ALERT_WINDOW
 
 ```
 FPS-Meter/
-├── demo-app/                      # Full Android application with Jetpack Compose
+├── assets/
+│   └── logo.png                  # High-res app logo and icon
+├── fps-meter/                    # Full Android application with Jetpack Compose
 │   ├── app/
 │   │   ├── src/main/java/
 │   │   │   ├── com/example/fpsmeter/
